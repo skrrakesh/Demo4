@@ -7,9 +7,10 @@
     <title>Document</title>
 </head>
 <body>
-    <h1 style="color: red;">welcome web application</h1>
-    <h1 style="color: blue;">hello ${name}</h1>
-
+    <form action="index">
+        <input type="text" name="sid" placeholder="Student Id">
+        <input type="text" name="sname" placeholder="Student Name">
+        <input type="submit" placeholder="submit">
+    </form>
 </body>
 </html>
-

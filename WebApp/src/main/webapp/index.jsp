@@ -7,9 +7,9 @@
     <title>Document</title>
 </head>
 <body>
-    <h1 style="color: red;">welcome web application</h1>
-    <h1 style="color: blue;">hello ${name}</h1>
-
+    <h1 style="color: red;">Jspiders</h1>
+    <h2>Student Details</h2>
+    <h3>Student Id: ${sid}</h3>
+    <h3>Student Name: ${sname}</h3>
 </body>
 </html>
-
